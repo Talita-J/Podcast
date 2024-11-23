@@ -1,4 +1,5 @@
 # Caminho do Projeto Completo
+https://github.com/Talita-J/Podcast/tree/main/prompts-for-podcast-generate-by-ia-main
 
 # Projeto Podcast Gerado por I.A.s
 
